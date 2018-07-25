@@ -1,9 +1,23 @@
-.background {background-color: black}
+.background {background-color: black;}
 
 h1 {color: white;
+    font-family: verdana;
+    font-size: 50px
+    font-weight: normal;
     text-align: center;}
 
 p {color: white;
    text-align: center}
 
-a {color: lightblue}
+a {color: aquamarine;
+  font-family: verdana;
+  font-size: 16px}
+
+h2 {color: gray;
+  font-family: verdana;
+  font-size: 21px;
+  text-align: center;
+
+.image {align-items: center;}
+
+.video {align-items: center;}
