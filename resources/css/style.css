@@ -7,7 +7,7 @@ h1 {color: white;
     text-align: center;}
 
 p {color: white;
-   text-align: center}
+   text-align: center;}
 
 a {color: aquamarine;
   font-family: verdana;
@@ -16,8 +16,13 @@ a {color: aquamarine;
 h2 {color: gray;
   font-family: verdana;
   font-size: 21px;
-  text-align: center;
+  text-align: center;}
 
 .image {align-items: center;}
 
 .video {align-items: center;}
+
+#footer {color: gray;
+  font-family: verdana;
+  font-size: 21px;
+  text-align: right;;}
